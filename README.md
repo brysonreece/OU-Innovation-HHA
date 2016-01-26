@@ -1,2 +1,6 @@
-# OU-Innovations---HHA
-Hacking Home Automation - A DIY approach to your very own Smart Home
+###Hacking Home Automation - a DIY Approach to Your Very Own Smart Home
+Taught at OU Innovations @ The Edge
+
+---
+
+####Getting Started
