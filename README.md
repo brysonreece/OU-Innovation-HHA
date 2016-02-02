@@ -65,7 +65,7 @@ Wait for your Pi to download updated packages and install them.
 
 When that's finished, enter 
 ````
-wget https://git.io/vzdnt -O qs.sh && sudo chmod +x qs.sh && sudo ./qs.sh
+wget https://git.io/vgUMm -O qs.sh && sudo chmod +x qs.sh && sudo ./qs.sh
 ````
 
 Then follow the on-screen instructions.
