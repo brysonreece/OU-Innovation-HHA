@@ -1,10 +1,10 @@
-##Hacking Home Automation - a DIY Approach to Your Very Own Smart Home
+## Hacking Home Automation - a DIY Approach to Your Very Own Smart Home
 Taught at OU's Innovation @ The Edge
 
 ---
 ![Result Flowchart](http://i.imgur.com/Gk2KMJq.png)
 
-##Getting Started
+## Getting Started
 To get started building our very own Smart Home, we need to gather the following hardware:
 * Amazon Echo ([Amazon](http://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X4WHP5E/))
 * Raspberry Pi 2 ([Element14](http://www.newark.com/raspberry-pi/raspberrypi-2-modb-1gb/sbc-raspberry-pi-2-model-b-1gb/dp/38Y6467), [Adafruit](https://www.adafruit.com/products/2358))
@@ -15,18 +15,18 @@ To get started building our very own Smart Home, we need to gather the following
 * 433Mhz Transmitter and Receiver ([Amazon](http://www.amazon.com/gp/product/B00M2CUALS/), [Ebay](http://www.ebay.com/sch/sis.html?_nkw=433Mhz+RF+transmitter+and+receiver+link+kit+for+Arduino+ARM+MCU+WL))
 * Etekcity Wireless Outlets ([Amazon](http://www.amazon.com/gp/product/B00DQELHBS/))
 
-###Putting Our Hardware Together
+### Putting Our Hardware Together
 To begin, we have to connect these devices together in order to allow them to communicate with each other.
 
-####Amazon Echo
+#### Amazon Echo
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Begin by setting up your Amazon Echo using [Amazon's instructions](https://www.amazon.com/gp/help/customer/display.html?nodeId=201601770).
   
-####Raspberry Pi (taken from [here](https://www.howtoforge.com/tutorial/howto-install-raspbian-on-raspberry-pi/))
+#### Raspberry Pi (taken from [here](https://www.howtoforge.com/tutorial/howto-install-raspbian-on-raspberry-pi/))
 
-#####Hardware
+##### Hardware
 Solder a few male-to-female jumper wires to your transmitter and receiver and connect them to your Pi as shown [here](http://i.imgur.com/BM1Jq0h.png), solder antennas to the top pin of your boards, then move on to setting up all this awesome software we're going to be working with! 
 
-#####Software
+##### Software
 Begin by installing the lastest version of Raspbian from the [Raspberry Pi Downloads page](https://www.raspberrypi.org/downloads/), the follow [their instructions](https://www.raspberrypi.org/documentation/installation/installing-images/README.md) to install it to your SD card.
 
 Insert your SD card, plug in your Raspberry Pi and get started!
